@@ -1,2 +1,3 @@
 # hello-world
-just another description
+HI humans
+Amil here,I like python programming language
